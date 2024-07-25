@@ -466,7 +466,7 @@ nmap -sF [target]
 
 ### Xmas Scan
 ```shell
-nmap -sA [target]
+nmap -sX [target]
 ```
 
 ### TCP ACK Scan
