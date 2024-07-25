@@ -105,7 +105,7 @@ Reference guide for scanning networks with Nmap.
     7. [Trace Packets](#trace-packets)  
     8. [Display Host Networking](#display-host-networking)  
     9. [Specify a Network Interface](#specify-a-network-interface)  
-12. [Nmap Scripting Engine](#)  
+12. Nmap Scripting Engine  
     1. [Execute Individual Scripts](#execute-individual-scripts)  
     2. [Execute Multiple Scripts](#execute-multiple-scripts)  
     3. [Execute Scripts by Category](#execute-scripts-by-category)  
