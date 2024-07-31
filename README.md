@@ -145,6 +145,7 @@ The `-s` switch determines the type of scan to perform.
 | **-sR**     | RPC scan                    |
 | **-sS**     | SYN scan                    |
 | **-sT**     | TCP connect scan            |
+| **-sV**     | Port Scan                   |
 | **-sW**     | Windows scan                |
 | **-sX**     | XMAS scan                   |
 
